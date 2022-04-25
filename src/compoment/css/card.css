@@ -1,0 +1,28 @@
+.cardImage {
+
+    height: 16rem;
+}
+
+.container {
+
+    margin-bottom: 4rem;
+}
+.card {
+
+    width: 20rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+
+}
+.g-4.row.row-cols-md-3.row-cols-1 {/* margin: 0px auto; */margin-left: 3rem;}
+
+.table {
+    padding: 5rem;
+}
+
+.cardImage {
+   
+    width: 100%;
+    height: 21rem;
+}
